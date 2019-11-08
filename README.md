@@ -1,5 +1,6 @@
 # IHC-ARJS
 INTERAÇÃO HUMANO AO COMPUTADOR 
+
   Projeto realizado para a disciplina de IHC com o Prof. Giuliano Bertoti na FATEC-SJC 
   
   Alunos: Rodrigo Marcelino, Rodrigo Querino e Yasmin de Araújo Arantes
