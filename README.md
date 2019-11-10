@@ -1,9 +1,12 @@
 # IHC-ARJS
-INTERAÇÃO HUMANO AO COMPUTADOR 
+Faculdade de Tecnologia de São José dos Campos. Jessen Vidal
 
-  Projeto realizado para a disciplina de IHC com o Prof. Giuliano Bertoti na FATEC-SJC 
-  
-  Alunos: Rodrigo Marcelino, Rodrigo Querino e Yasmin de Araújo Arantes
-  Turma: ADS - 3ºA
-  
-  Objetivo do projeto é criar uma aplicação em AR e VR para Treinamento na Indústrica Aeronáutica da empresa Latecoere, a fim de treinar os funcionários na correta utilização da peça de uma maneira intuitiva. 
+Curso de Análise e Desenvolvimento de Sistemas Turma: A / 3 Semestre
+
+Alunos: Rodrigo Marcelino, Rodrigo Querino e Yasmin de Araújo Arantes
+
+Professor: Giuliano Bertoti
+
+Objetivo do projeto é implementar novas tecnologias de realidade aumentada, afim de auxiliar a melhora prática e desenvoltura dos treinamentos de funcionalidade dos equipamentos utilizados na empresa Latécoère.
+
+A idéia do grupo é deixar de modo intuitivo a utilização da ferramenta, para que reduza os danos à materiais de montagem da empresa. Com a utilização de marcadores e imagens 3D.
