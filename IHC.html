@@ -7,7 +7,7 @@
     <script>
         AFRAME.registerComponent('navigate-on-click', {
           schema: {
-          url: {default: ""}
+          url: {default: ''}
           },
           init: function () {
             var data = this.data;
@@ -52,9 +52,7 @@
           <a-text  width="12" value="Conforme podemos visualizar na simulacao ao lado, a furacao com a utilizacao da bucha guia ou tripe corrige o angulo e o batimento da broca fora do centro." color="white" rotation="-90 0 0" position= "-2.8 0.2 2" ></a-text>
 
           <a-text  width="15" value="X" color="red" rotation="-90 0 0" position= "-2.8 0.2 -1.7" ></a-text>
-
-          <a-text value="Clique aqui para visualizar o video" color=white position="4 0.2 0.5" rotation="-90" navigate-on-click="url:https://cdn.glitch.com/bced3ca8-4d49-4fea-bd1e-2e5a4d09ac0a%2FFura%C3%A7%C3%A3o.mp4?v=1568814107585"></a-text>
-
+          
           </a-marker>
           <a-camera> <a-cursor>
     </head>
