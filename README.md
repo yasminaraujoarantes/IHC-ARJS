@@ -1,10 +1,28 @@
-# IHC-ARJS
-Faculdade de Tecnologia de São José dos Campos. Jessen Vidal
+# Projeto de Realidade Aumentada para aparecer o Treinamento na Indústria Aeronáutica sobre o marcador "HIRO" 
 
-Curso de Análise e Desenvolvimento de Sistemas Turma: A / 3 Semestre
+Projeto feito na disciplina (Interação Humano Computador curso de ADS) pelos alunos:
 
-Alunos: Rodrigo Marcelino, Rodrigo Querino e Yasmin de Araújo Arantes
+ - Rodrigo Marcelino
 
-Professor: Giuliano Bertoti
+ - Rodrigo Querino
 
-Objetivo do projeto é implementar novas tecnologias de realidade aumentada, a fim de auxiliar a melhor prática e desenvoltura dos treinamentos de funcionalidade dos equipamentos utilizados na empresa Latécoère.
+ - Yasmin Araújo Arantes
+
+Professor Giuliano Bertoti
+
+
+## 
+
+### ← Recursos para a Execução
+
+Você precisa projetar a câmera sobre este marcador:
+
+![Drag Racing](https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg)
+
+### ← Veja um vídeo breve de como executar a aplicação 
+
+Clique aqui para ver o [vídeo]().
+
+### ← Abrir a aplicação (Webapp)
+
+Clique aqui para executar o [Webapp](https://ihc-2019.glitch.me/IHC.html).
