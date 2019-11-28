@@ -25,4 +25,4 @@ Clique aqui para ver o [vídeo]().
 
 ### ← Abrir a aplicação (Webapp)
 
-Clique aqui para executar o [Webapp](https://ihc-2019.glitch.me/IHC.html).
+Clique aqui para executar o [Webapp](https://ihc-2019.glitch.me/).
